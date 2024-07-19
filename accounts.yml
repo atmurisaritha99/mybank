@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to My Bank accounts related webhook related docker APIs "
+  message: "Welcome to My Bank accounts related webhook docker APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@mybank.com"
